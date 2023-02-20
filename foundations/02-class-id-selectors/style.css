@@ -1,0 +1,19 @@
+.p-class {
+    background-color: pink;
+    font-family: -apple-system, BlinkMacSystemFont,
+    “Verdana”, “DejaVu Sans”, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#juan {
+    color: blue;
+    font-size: 36px;
+}
+
+#dos {
+    background-color: lightgreen;
+    font-weight: bold;
+}
